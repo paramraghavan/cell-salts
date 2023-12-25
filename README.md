@@ -1,6 +1,5 @@
 # cell-salts
 # Gentle Little Souls - All About the Cell Salts by Miranda Castro - Miranda Castro Homeopathy
-This is a long article. To view, print or download the original article:
 
 #### [CONTENTS](#top)
 
@@ -377,5 +376,6 @@ Wounds:
 
 * * *
 
-_First published in Homeopathy Today July/August 2008_  
-Copyright © 2018 Miranda Castro
+>_First published in Homeopathy Today July/August 2008_  
+> Copyright © 2018 Miranda Castro
+> ref: https://mirandacastro.com/gentle-little-souls-all-about-the-cell-salts-by-miranda-castro/
