@@ -1,0 +1,1 @@
+![image](./WhichCellSaltIsRightForMe.PNG)
