@@ -1,1 +1,1 @@
-![image](./WhichCellSaltIsRightForMe.PNG)
+![image](./WhichCellSaltIsRightForMe.png)
